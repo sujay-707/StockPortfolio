@@ -1,0 +1,13 @@
+{
+  "name": "express-simple-starter",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "and": "^0.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "start": "^5.1.0"
+  }
+}
